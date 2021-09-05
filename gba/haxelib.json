@@ -1,0 +1,10 @@
+{
+	"name" : "hlgba",
+	"url" : "https://github.com/HaxeFoundation/hl/tree/master/libs/sdl",
+	"license" : "BSD",
+	"contributors" : ["ncannasse"],
+	"description" : "GBA support for Haxe/HL.",
+	"version" : "0.0.1",
+	"releasenote" : "first test",
+	"dependencies": { "hlopenal" : "" }
+}
